@@ -1,11 +1,11 @@
 
-# Jeeyio鸡油机场官方地址(2026年月日更新)
+# Jeeyio鸡油机场官方地址(2026年9月9日更新)
 Jeeyio鸡油机场官网地址</br>
 官方地址：[https://jeeyio.com/](https://jeeyio.com/)</br>
 注册账户TG机器人：[https://t.me/Jeeyio_bot](@Jeeyio_bot)
 ## 优惠码/折扣码
 `TG链接注册获得试用套餐`</br>
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/4375203408098.jpg?raw=true)</br>
 ## 简介
 Jeeyio（鸡油）是一款面向跨境网络访问需求的代理服务，支持 VLESS、AnyTLS 等协议。整体定位简洁实用，适合日常网页访问、社交媒体、流媒体以及学习办公等场景，为用户提供更顺畅、灵活的海外网络连接体验。
 ## 优势
