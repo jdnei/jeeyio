@@ -18,9 +18,13 @@ Jeeyio（鸡油）的优势在于协议较新、配置灵活，并兼顾速度�
 | 常规套餐 · Pro  | L3      | ¥48.00/月 | 240 GB |      10 | 不限   | 不限速  | 是    | 保证流媒体解锁及流畅访问，增加专属入口；相比 Plus：+90 GB 流量、+5 在线 IP |
 
 ## 📊 性能实测与分析
-#### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+#### 1.1联通晚高峰测速表现
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/71875434750cucc.jpg?raw=ture)</br>
+#### 1.2电信晚高峰测速表现
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/69845398425ctcc.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/2543985789cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/439582349859test.jpg?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/73426539465ana.jpg?raw=ture)</br>
