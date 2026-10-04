@@ -10,7 +10,7 @@ Jeeyio鸡油机场官网地址</br>
 ```
 ![image](https://github.com/jdnei/jeeyio/blob/main/jeeyio/4375203408098.jpg?raw=true)</br>
 ## 优惠码/折扣码
-·无·
+`无`
 ## 简介
 Jeeyio（鸡油）是一款面向跨境网络访问需求的代理服务，支持 VLESS、AnyTLS 等协议。整体定位简洁实用，适合日常网页访问、社交媒体、流媒体以及学习办公等场景，为用户提供更顺畅、灵活的海外网络连接体验。
 ## 优势
