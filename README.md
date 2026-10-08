@@ -1,5 +1,5 @@
 
-# Jeeyio鸡油机场官方地址(2026年10月7日更新)
+# Jeeyio鸡油机场官方地址(2026年10月8日更新)
 Jeeyio鸡油机场官网地址</br>
 官方地址：[jeeyio.com](https://jeeyio.com/register?inviteCode=8HSMGF)</br>
 注册账户TG机器人：[https://t.me/Jeeyio_bot](@Jeeyio_bot)
