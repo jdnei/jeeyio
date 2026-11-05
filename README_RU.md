@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт Jeeyio VPN (обновлено 3 ноября 2026)
+# Официальный сайт Jeeyio VPN (обновлено 5 ноября 2026)
 
 Официальный сайт VPN-сервиса Jeeyio<br>
 Официальный адрес: [jeeyio.com](https://to.iix.im/jy01)<br>
