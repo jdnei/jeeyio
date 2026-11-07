@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Jeeyio VPN Official Website (Updated November 6, 2026)
+# Jeeyio VPN Official Website (Updated November 7, 2026)
 
 Jeeyio VPN Official Website<br>
 Official Website: [jeeyio.com](https://to.iix.im/jy01)<br>
