@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی VPN جی‌ییو (Jeeyio) - (به‌روزرسانی 10 نوامبر 2026)
+# آدرس رسمی VPN جی‌ییو (Jeeyio) - (به‌روزرسانی 11 نوامبر 2026)
 وب‌سایت رسمی VPN جی‌ییو (Jeeyio)<br>
 آدرس رسمی: [jeeyio.com](https://to.iix.im/jy01)<br>
 ربات تلگرام برای ثبت‌نام: [https://t.me/Jeeyio_bot](https://t.me/Jeeyio_bot)<br>
